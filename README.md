@@ -24,7 +24,7 @@ The primary goal of this project is to strengthen foundational JavaScript concep
 * Dynamic UI updates without page reload
 * Modular and readable code structure
 
-📂 Project Structure
+📂 Project Structure:-
 tic-tac-toe/
 │── index.html
 │── style.css
@@ -40,6 +40,8 @@ tic-tac-toe/
 * Score tracking system
 * Improved UI/UX with animations
 * Mobile-first optimization
+
+THANK YOU!!
 
 🙌 Author
 PARINIDHI JAIN
